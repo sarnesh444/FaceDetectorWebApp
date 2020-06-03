@@ -29,7 +29,7 @@ This package assumes you use Python 3.x.
 
 * [CVlib](https://www.cvlib.net/) A simple, hassle-free, easy-to-use open source Computer Vision library for Python,has tensorflow and OpenCV running in the backend.
 
-## Note:(To make sure you don't encounter the issues that I have)
+## Note:(To make sure you don't run into the issues that I have!)
 It is advisable to use a conda environment for this purpose
 * Make sure you have [Anaconda Prompt](https://docs.anaconda.com/anaconda/install/windows/) installed on your system
 * Install tensorflow from anaconda prompt using the command "conda create -n tf tensorflow".
