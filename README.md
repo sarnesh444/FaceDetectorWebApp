@@ -14,7 +14,7 @@
 #### Watch the demo video(facedetwebappdemo.webm) for reference 
 * Step1:Clone the repository
 * Step2:Drag in the image you want to detect into your current working directory
-* Step3:### Run the main file using the command "streamlit run facedetwebapp.py"
+* Step3:Run the main file using the command "streamlit run facedetwebapp.py"
 * Step4:Specify your inputs from side-bar to detect faces
 
 ## Prerequisites
@@ -37,3 +37,19 @@ It is advisable to use a conda environment for this purpose
 * Install the latest version of Open-CV for this conda environment use the command "pip install opencv-python"
 * Install CV-Lib using the command "pip install cvlib"
 
+## Contributing
+
+If you found any mistakes in my code, or if you can enhance the quality of documention, please feel free to contribute!
+Here are 3 steps to contributing.
+
+1. [Fork](https://github.com/sarnesh444/IndianNumberPlateDetection/fork) this project.
+2. Commit your changes.
+3. Create a new Pull Request and link an [issue](https://github.com/sarnesh444/IndianNumberPlateDetection/issues/new) with it.
+
+## Meta 
+
+| Name | Github | LinkedIn | E-mail | Phone|
+| --- | --- | --- | --- | --- |
+| Saranesh ManiRatna.K | [@saranesh](https://github.com/sarnesh444) | [@saranesh](https://www.linkedin.com/in/saranesh-kanumuri-17a7a5181/) |[E-mail](mailto:sarnesh444@gmail.com) | [(+91) 8500717519](tel:+918500717519)
+
+#### This project is ready to use but NOT meant for production and hasn't been tested thoroughly.
